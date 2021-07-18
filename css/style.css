@@ -1,0 +1,8 @@
+.container {
+  margin: 100px auto;
+}
+.alert-blue {
+  color: #4cffa4;
+  background-color: #414875;
+  border-color: #f0ff0c;
+}
